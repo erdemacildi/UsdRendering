@@ -40,6 +40,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "CustomizableSequencerTracks",
+			"Enabled": true
 		}
 	]
 }
